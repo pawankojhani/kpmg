@@ -38,5 +38,5 @@ file name:- three-tier-environment.tf
 **Challenge #3**
 
 File name --> challenge-3-nested-object.js
-using NodeJS i have completed the challenge-3 using compiler  https://www.jdoodle.com/execute-nodejs-online/
+using NodeJS completed the challenge-3, compiler  https://www.jdoodle.com/execute-nodejs-online/
 ​
