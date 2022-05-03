@@ -1,7 +1,7 @@
 # kpmg
 **Challenge #1**
-**A Three-Tier Architecture in AWS using by Terraform**
-file name:- **three-tier-environment.tf**
+A Three-Tier Architecture in AWS using by Terraform
+file name:- three-tier-environment.tf
 1- Run initialization via terminal 
    # terraform init
 2- Run ensures formatting    
